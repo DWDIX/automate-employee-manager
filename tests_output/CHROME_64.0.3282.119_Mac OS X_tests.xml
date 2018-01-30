@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="8">
+
+  <testsuite name="tests"
+    errors="0" failures="0" hostname="" id="" package="tests" skipped="0"
+    tests="8" time="9.692" timestamp="Tue, 30 Jan 2018 21:54:49 GMT">
+  
+    <testcase name="Changing and Saving Info" classname="tests" time="3.964" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Nine Digit Phone Number" classname="tests" time="0.8260" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Saving No Info" classname="tests" time="0.5140" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Breaking Title Field" classname="tests" time="0.8670" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Elevn Digit Number" classname="tests" time="0.7350" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Breaking Name Field" classname="tests" time="0.8380" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Numbers Only" classname="tests" time="0.6790" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Check ID" classname="tests" time="1.269" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
