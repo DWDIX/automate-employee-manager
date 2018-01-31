@@ -5,11 +5,17 @@ module.exports = {
             phone: '1234567890',
             title: 'h'
         },
-        transaction2: {
+        t2: {
             name: '123456789012345678901234567890',
             phone: '1234567890',
             title: '123456789012345678901234567890',
         },
+        AddNewEmployee: {
+            name: 'Dallan Dixon',
+            phone: '1234567890',
+            title: 'BA'
+    },
+ 
 
 
     },
@@ -41,8 +47,8 @@ module.exports = {
             title: 'e'
 
         },
-        errorMessage:{
-            errorCard :'div[class="errorCard"]',
+        errorMessage: {
+            errorCard: 'div[class="errorCard"]',
         },
 
         breakingTitle: {
@@ -59,6 +65,11 @@ module.exports = {
 
         savingInfo: {
             name: ''
+        },
+        redBar: {
+            name:'1234567890123456789012345678901',
+            phone:'1234567890',
+           
         }
 
     },

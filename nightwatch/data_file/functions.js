@@ -5,5 +5,5 @@ module.exports = {
         .setValue(selectors, data)
         .verify.value(selectors, data)
     },
-
+ 
 }
